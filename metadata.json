@@ -1,29 +1,25 @@
 {
-  "name": "Ghost Goats #4959",
-  "symbol": "GHOSTGOATS",
+  "name": "Illusion Degens109",
+  "symbol": "ILLUSION",
   "description": "This collection's Metaplex collection standard NFT does not have metadata URI. If you have the update authority, you can change the picture/description on this page by updating the collection standard NFT and filling in the right metadata URI.",
   "seller_fee_basis_points": 200,
-  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://dweb.link/ipfs/Qmew6PJDtckeTrtngUWh5HymAGNbk9a4GyMwDcJnwvJqhm/4400.jpg",
+  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://dweb.link/ipfs/QmQFKNMYfYVtxawdbkmvquArjeVYkSoUEWCdak3Nz7xtrF/102.png",
   "attributes": [
   {
+      "trait_type": "Accessory",
+      "value": "Unreveal (2)"
+    },
+    {
       "trait_type": "Background",
-      "value": "Sinister Clouds"
+      "value": "Unreveal"
     },
     {
-      "trait_type": "Skins",
-      "value": "Black"
+      "trait_type": "Face",
+      "value": "Unreveal (2)"
     },
     {
-      "trait_type": "Clothing",
-      "value": "Turtleneck with Silver Chains"
-    },
-    {
-      "trait_type": "Mouth Accessories",
-      "value": "Blunt"
-    },
-    {
-      "trait_type": "Eye Accessories",
-      "value": "Eyewrap"
+      "trait_type": "Head",
+      "value": "Unreveal (2)"
     }
   ],
   "properties": {
