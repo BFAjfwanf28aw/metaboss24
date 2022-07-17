@@ -1,25 +1,23 @@
 {
-  "name": "Illusion Degens109",
+  "name": "Golden Egg#992",
   "symbol": "ILLUSION",
   "description": "This collection's Metaplex collection standard NFT does not have metadata URI. If you have the update authority, you can change the picture/description on this page by updating the collection standard NFT and filling in the right metadata URI.",
   "seller_fee_basis_points": 200,
-  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://dweb.link/ipfs/QmQFKNMYfYVtxawdbkmvquArjeVYkSoUEWCdak3Nz7xtrF/102.png",
+  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://dweb.link/ipfs/QmR3ToUj8hGQ7JZx1F3tEV9B12mAiupYQLAaqdXWjRt9ax/635.png",
   "attributes": [
   {
-      "trait_type": "Accessory",
-      "value": "Unreveal (2)"
-    },
-    {
       "trait_type": "Background",
-      "value": "Unreveal"
+      "value": "Rare Background 2"
     },
     {
-      "trait_type": "Face",
-      "value": "Unreveal (2)"
+      "trait_type": "Eggs",
+      "value": "Silver Egg"
     },
     {
-      "trait_type": "Head",
-      "value": "Unreveal (2)"
+      "trait_type": "Rarity Rank",
+      "value": 4295,
+      "display_type": "number",
+      "max_value": 4444
     }
   ],
   "properties": {
