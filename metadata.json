@@ -1,45 +1,29 @@
 {
-  "name": "Parabellum #31",
-  "symbol": "BLLUM",
+  "name": "Ghost Goats #4959",
+  "symbol": "GHOSTGOATS",
   "description": "This collection's Metaplex collection standard NFT does not have metadata URI. If you have the update authority, you can change the picture/description on this page by updating the collection standard NFT and filling in the right metadata URI.",
   "seller_fee_basis_points": 200,
-  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://arweave.net/ItP3DT4ZNwE_qKDkx40UpFL8FKmJRhfV_P3w9P9LXrE",
+  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://dweb.link/ipfs/Qmew6PJDtckeTrtngUWh5HymAGNbk9a4GyMwDcJnwvJqhm/4400.jpg",
   "attributes": [
   {
       "trait_type": "Background",
-      "value": "Purple"
+      "value": "Sinister Clouds"
     },
     {
-      "trait_type": "Body",
-      "value": "green"
+      "trait_type": "Skins",
+      "value": "Black"
     },
     {
-      "trait_type": "Head",
-      "value": "combover"
+      "trait_type": "Clothing",
+      "value": "Turtleneck with Silver Chains"
     },
     {
-      "trait_type": "Eyes",
-      "value": "Parabellum"
+      "trait_type": "Mouth Accessories",
+      "value": "Blunt"
     },
     {
-      "trait_type": "Mouth",
-      "value": "shadow"
-    },
-    {
-      "trait_type": "Mask",
-      "value": "Question Mask"
-    },
-    {
-      "trait_type": "Clothes",
-      "value": "frozen"
-    },
-    {
-      "trait_type": "ClothOverlays",
-      "value": "serpent"
-    },
-    {
-      "trait_type": "Wings",
-      "value": "None"
+      "trait_type": "Eye Accessories",
+      "value": "Eyewrap"
     }
   ],
   "properties": {
